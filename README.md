@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ali Sina</h1>
-<h3 align="center">A Passionate full-stack developer with a year of experience. I have developed full-stack applications across various platforms using latest industry-adopted technologies and frameworks.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alisinayousofi" alt="alisinayousofi" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://thumbs.gfycat.com/AngelicConcreteHypsilophodon.webp" alt="alisinayousofi" /></a> </p>
 
+<h1> A Passionate full-stack developer. </h1>
 <p align="left"> <a href="https://twitter.com/shreddeddev" target="blank"><img src="https://img.shields.io/twitter/follow/shreddeddev?logo=twitter&style=for-the-badge" alt="shreddeddev" /></a> </p>
 
 - 🔭 I’m currently working on a **blog wesbite.**
