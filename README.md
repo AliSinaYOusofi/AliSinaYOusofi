@@ -4,8 +4,11 @@
 
 <h1> A Passionate full-stack developer. </h1>
 <p align="left"> <a href="https://twitter.com/shreddeddev" target="blank"><img src="https://img.shields.io/twitter/follow/shreddeddev?logo=twitter&style=for-the-badge" alt="shreddeddev" /></a> </p>
+- 👋 Hi, I’m @AliSinaYOusofi
 
 - 🔭 I’m currently working on a **blog wesbite.**
+
+- 🌱 I’m currently learning web3.
 
 - 👯 I’m looking to collaborate on **open-source projects.**
 
