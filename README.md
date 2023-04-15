@@ -3,10 +3,11 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://thumbs.gfycat.com/AngelicConcreteHypsilophodon.webp" alt="alisinayousofi" /></a> </p>
 
 <h1> A Passionate full-stack developer. </h1>
-<p align="left"> <a href="https://twitter.com/shreddeddev" target="blank"><img src="https://img.shields.io/twitter/follow/shreddeddev?logo=twitter&style=for-the-badge" alt="shreddeddev" /></a> </p>
+<p align="left"> <a href="https://twitter.com/RippedDeveloper" target="blank"><img src="https://img.shields.io/twitter/follow/shreddeddev?logo=twitter&style=for-the-badge" alt="shreddeddev" /></a> </p>
 - 👋 Hi, I’m @AliSinaYOusofi
 
 - 👯 I’m looking to collaborate on **open-source projects.**
+
 
 - 🤝 I’m looking for help with **junior devs.**
 
@@ -19,6 +20,8 @@
 - 📄 Know about my experiences [https://alisina.vercel.app](https://alisina.vercel.app)
 
 - ⚡ Fun fact **I lift weights.**
+
+- <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" /> <a href="https://dev.to/alisinayousofi"> My Blogs. </a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
