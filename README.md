@@ -12,17 +12,17 @@
 
 - 👨‍💻 All of my projects are available at [https://alisina.vercel.app](https://alisina.vercel.app)
 
-- 💬 Ask me about **React, Next, Tailwind, Node, MySQL.**
+- 💬 Ask me about **React, Next, Tailwind, Node, MongoDB, Redux.**
 
-- 📫 How to reach me **senayousofiali@gmail.com**
+- 📫 How to reach me **tinayousofiali@gmail.com**
 
 - 📄 Know about my experiences [https://alisina.vercel.app](https://alisina.vercel.app)
 
-- ⚡ Fun fact **I'm shreeded.**
+- ⚡ Fun fact **I lift weights.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/shreddeddev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shreddeddev" height="30" width="40" /></a>
+<a href="https://twitter.com/RippedDeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shreddeddev" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/ali sina yousofi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ali sina yousofi" height="30" width="40" /></a>
 <a href="https://codesandbox.com/alisinayousofi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="alisinayousofi" height="30" width="40" /></a>
 </p>
