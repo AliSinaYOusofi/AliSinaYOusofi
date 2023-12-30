@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ali Sina</h1>
+<h1 align="center">Hi 👋, I'm Ali</h1>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://thumbs.gfycat.com/AngelicConcreteHypsilophodon.webp" alt="alisinayousofi" /></a> </p>
 
@@ -8,12 +8,11 @@
 
 - 👯 I’m looking to collaborate on **open-source projects.**
 
-
 - 🤝 I’m looking for help with **junior devs.**
 
 - 👨‍💻 All of my projects are available at [https://alisina.vercel.app](https://alisina.vercel.app)
 
-- 💬 Ask me about **React, Next, Tailwind, Node, MongoDB, Redux.**
+- 💬 Ask me about **React, Next, Tailwind, Node, MongoDB, Redux., Express, REST, GRAPHQL**
 
 - 📫 How to reach me **tinayousofiali@gmail.com**
 
