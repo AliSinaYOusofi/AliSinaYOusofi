@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ali Yousofi</h1>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://thumbs.gfycat.com/AngelicConcreteHypsilophodon.webp" alt="alisinayousofi" /></a> </p>
-
 <h1> Web and mobile developer </h1>
 <p align="left"> <a href="https://twitter.com/RippedDeveloper" target="blank"><img src="https://img.shields.io/twitter/follow/shreddeddev?logo=twitter&style=for-the-badge" alt="shreddeddev" /></a> </p>
 - 👋 Hi, I’m @AliSinaYOusofi
