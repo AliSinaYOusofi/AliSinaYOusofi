@@ -6,15 +6,9 @@
 
 - 👯 I’m looking to collaborate on **open-source projects.**
 
-- 👨‍💻 All of my projects are available at [https://alisina.vercel.app](https://alisina.vercel.app)
-
 - 💬 Ask me about **React, Next, Tailwind, Node, MongoDB, Redux., Express, REST, React-Native, Expo**
 
 - 📫 How to reach me **tinayousofiali@gmail.com**
-
-- 📄 Know about my experiences [https://alisina.vercel.app](https://alisina.vercel.app)
-
-- ⚡ Fun fact **I lift weights.**
 
 - <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" /> <a href="https://dev.to/alisinayousofi"> My Blogs. </a>
 
